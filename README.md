@@ -1,32 +1,16 @@
-### Wasspapin Eu sou o Idarcio Oliveira apaixonado em criar soluções 
+# Idarcio Oliveira
 
+Software Developer building thoughtful products.
 
-  
-  <div style="display: inline_block"><br>
-   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  
-</div>
-  
-   ##
+I care about clarity, reliability, and execution.
 
-  ## Vamos criar algo juntos?
- 
-  <div> 
+## Selected Work
+- [ocr-app](https://github.com/idarciooliveira/ocr-app)
+- [expo-router-with-nativewind](https://github.com/idarciooliveira/expo-router-with-nativewind)
+- [dalva-personal-finance-app](https://github.com/idarciooliveira/dalva-personal-finance-app)
+- [buildrop](https://github.com/idarciooliveira/buildrop)
 
-   
-  <a href="https://instagram.com/idarciooliveira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-  <a href = "mailto:idarciooliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/idarciooliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-
- 
-</div>
+## Contact
+- [Website](https://iofdev.me)
+- [LinkedIn](https://www.linkedin.com/in/idarciooliveira/)
+- [Email](mailto:idarciooliveira@gmail.com)
